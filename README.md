@@ -63,7 +63,5 @@ OUTPUT:
 -ends warning signals
 -Logs output in log.txt
 
-Submitted By:
-Aishwarya Jadhav
 
 
